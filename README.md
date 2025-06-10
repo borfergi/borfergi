@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Borja, and I'm a data engineer with experience in both cloud-based and open-source tool pipelines!
+
+🤔 I'm looking for new opportunities in data engineering field.
+🌱 I’m currently learning to build and deploy cloud solutions with IaC.
+
+📫 Check out my [LinkedIn](https://www.linkedin.com/in/borjafernandezgil/)
+
+
+
 <!--
 **borfergi/borfergi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
