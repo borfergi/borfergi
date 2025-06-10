@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-My name is Borja, and I'm a data engineer with experience in both cloud-based and open-source tool pipelines!
+My name is Borja, and I'm a data engineer interested in all kinds of data engineering solutions!
 
+- 🎈 I'm creating data pipelines with different tool combinations, both cloud-based and open-source.
 - 🤔 I'm looking for new opportunities in data engineering field.
 - 🌱 I’m currently learning to build and deploy cloud solutions with IaC.
 
