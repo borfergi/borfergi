@@ -1,6 +1,6 @@
 ## Hi, I'm Borja! 👋
 
-I'm a data engineer sharing my journey and learnings in tech
+I'm a data engineer sharing my journey and learnings in tech.
 
 - 🤔 Looking for new opportunities in data engineering field
 - 🎈 Creating data pipelines with different tool combinations, both cloud-based and open-source
